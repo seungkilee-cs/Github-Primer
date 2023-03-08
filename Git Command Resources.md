@@ -1,18 +1,13 @@
-# Git Command Resources
+# Github Primer: Git Command Resources
 
 ## Seung Ki Lee
+This a post about Git Commands. I was supposed to learn it in my sophomore year of college, but I had no clear guidance or tutorial to start off of. My professor showed us one video of his TA using Git on comandline, and that was it. No more resource on Git. We had to submit one assignment via commandline for a grade, and after that almost everyone just used github website for GUI. Gotta love that drag and drop.
 
-> > > > > > This page is built and deployed using [Typora](https://typora.io/) and [Gitbook](https://www.gitbook.com) 
-
-
-
-This a post about Git Commands. I was supposed to learn it in my sophomore year of college, but I had no clear guidance or tutorial to start off of. My professor showed us one video of his TA using Git on comandline, and that was it. No more resource on Git. We had to submit one assignment via commandline for a grade, and after that almost everyone just used github website for GUI. Gotta love that drag and drop :)
-
-But Commandline for Git is way too useful of a tool to just dismiss and move on: Have you ever tried uploading a project in PHP 100 files at a time via github website? What about uploading node_modules to github and ended up deleting the whole branch because you don't know how to get rid of a folder? Have you ever just dragged and dropped a file directly into master because you didn't know how to resolve merge conflicted pull requests? And overwritten a work that you and your team have to submit in another 3 hours? Have your friends looked at you with look of disgust in class because you wanted to use [Github for Desktop](https://desktop.github.com/)? (which is actually a great tool!) 
+But Commandline for Git is way too useful of a tool to just dismiss and move on; Have you ever tried uploading a project in PHP 100 files at a time via github website? What about uploading node_modules to github and ended up deleting the whole branch because you don't know how to get rid of a folder? Have you ever just dragged and dropped a file directly into master because you didn't know how to resolve merge conflicted pull requests? And overwritten a work that you and your team have to submit in another 3 hours? Have your friends looked at you with look of disgust in class because you wanted to use [Github for Desktop](https://desktop.github.com/)?
 
 Because I have. All of those happened to me personally and I said enough is enough. By learning git commands, I was able to do a lot more in a lot less time. This is not only a help for people who wants to get started on learning Git and version control, but a reference for myself as well.
 
-I will use Github as primary example for commands and references. For any other Git Repository, please contact me at seungkil@smu.edu or checkout their website listed at [Resources Section](#resource).
+I will use Github as primary example for commands and references. For any other Git Repository, please checkout their website listed at [Resources Section](#resource).
 
 <a id="toc">
 
