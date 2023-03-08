@@ -1,2 +1,2 @@
 # Github-Primer
-Quick guide to using github from command line
+[Quick guide](./Git Command Resources.md) to using github from command line
